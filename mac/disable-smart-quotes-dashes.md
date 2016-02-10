@@ -7,4 +7,6 @@ $ defaults write NSGlobalDomain NSAutomaticQuoteSubstitutionEnabled -bool false
 $ defaults write NSGlobalDomain NSAutomaticDashSubstitutionEnabled -bool false
 ```
 
+Log out of your user account and then log back in for the change to take effect.
+
 [source](https://github.com/mathiasbynens/dotfiles/blob/master/.osx#L120)

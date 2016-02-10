@@ -16,6 +16,7 @@ variety of languages and technologies.
 ### Mac
 
 - [Default Screenshot Location](mac/default-screenshot-location.md)
+- [Disble Smart Quotes and Dashes](mac/disable-smart-quotes-dashes.md)
 
 ## About
 

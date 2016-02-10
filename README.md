@@ -9,13 +9,7 @@ variety of languages and technologies.
 
 ### Categories
 
-* [Devops](#devops)
-* [Git](#git)
-* [JavaScript](#javascript)
-* [Linux](#linux)
 * [Mac](#mac)
-* [tmux](#tmux)
-* [Vim](#vim)
 
 ---
 

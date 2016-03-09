@@ -9,9 +9,14 @@ variety of languages and technologies.
 
 ### Categories
 
+* [Git](#git)
 * [Mac](#mac)
 
 ---
+
+### Git
+
+- [See how many commits each contributor has](git/commits-contributor.md)
 
 ### Mac
 

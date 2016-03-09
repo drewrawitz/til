@@ -9,7 +9,7 @@ $ git shortlog -sn
 You can even turn this into an alias to make it easier to remember. Let's make a `git stats` alias.
 
 ```git
-$ git config --global alias.stats shortlog -sn
+$ git config --global alias.stats 'shortlog -sn'
 ```
 
 [source](https://twitter.com/csswizardry/status/707572922362241025)

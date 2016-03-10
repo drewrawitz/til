@@ -11,6 +11,7 @@ variety of languages and technologies.
 
 * [Git](#git)
 * [Mac](#mac)
+* [Npm](#npm)
 
 ---
 
@@ -23,6 +24,10 @@ variety of languages and technologies.
 - [Default Screenshot Location](mac/default-screenshot-location.md)
 - [Disble Smart Quotes and Dashes](mac/disable-smart-quotes-dashes.md)
 - [Faster Key Repeat](mac/faster-key-repeat.md)
+
+### Npm
+
+- [Faster npm install](npm/faster-install.md)
 
 ## About
 

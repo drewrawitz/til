@@ -28,6 +28,7 @@ variety of languages and technologies.
 ### Npm
 
 - [Faster npm install](npm/faster-install.md)
+- [Keep packages up to date](npm/update-packages.md)
 
 ## About
 

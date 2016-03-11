@@ -12,9 +12,13 @@ npm install -g npm-check-updates
 Show any new dependencies for the project in the current directory:
 
 ```
-ncu -u
+ncu
 ```
 
 Run with -u to upgrade your package.json
+
+```
+ncu -u
+```
 
 [source](https://www.npmjs.com/package/npm-check-updates)

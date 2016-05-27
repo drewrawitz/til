@@ -1,6 +1,6 @@
 # Faster npm install
 
-*Update:* npm was updated in January and this is no longer an issue!
+**Update:** npm was updated in January and this is no longer an issue!
 
 ~~Executing the following before an npm install dramatically speeds up the process:~~
 

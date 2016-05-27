@@ -1,6 +1,6 @@
 # Making a div visible on top of an HTML5 full screen video
 
-This is a neat trick that will allow you to place an absolutely positioned element on top of a full screen HTML5 video. You'll need to set the maximum z-index value possible which is *2147483647*.
+This is a neat trick that will allow you to place an absolutely positioned element on top of a full screen HTML5 video. You'll need to set the maximum z-index value possible which is **2147483647**.
 
 ```css
 z-index: 2147483647;

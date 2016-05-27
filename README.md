@@ -10,6 +10,7 @@ variety of languages and technologies.
 ### Categories
 
 * [Git](#git)
+* [HTML](#html)
 * [Mac](#mac)
 * [Npm](#npm)
 
@@ -18,6 +19,10 @@ variety of languages and technologies.
 ### Git
 
 - [See how many commits each contributor has](git/commits-contributor.md)
+
+### HTML
+
+- [Making a div visible on top of an HTML5 full screen video](html/div-fullscreen-video.md)
 
 ### Mac
 
